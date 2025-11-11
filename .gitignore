@@ -84,3 +84,5 @@ Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
 Core/obj/project.assets.json
 Core/obj/project.nuget.cache
 Data/obj/project.assets.json
+BusinessEntities/obj/BusinessEntities.csproj.nuget.dgspec.json
+BusinessEntities/obj/BusinessEntities.csproj.nuget.dgspec.json

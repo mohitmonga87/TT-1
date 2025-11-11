@@ -2,6 +2,7 @@
 using System.Web.Http.Filters;
 using Common;
 using Core;
+using Core.Services.In_Memory;
 using Data;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
@@ -10,6 +11,7 @@ using SimpleInjector;
 using SimpleInjector.Integration.WebApi;
 using SimpleInjector.Lifestyles;
 using WebApi.App_Start;
+using WebApi.Models;
 
 namespace WebApi
 {
@@ -20,7 +22,9 @@ namespace WebApi
             var container = new Container();
             var lifestyle = Lifestyle.Scoped;
             container.Options.DefaultScopedLifestyle = new AsyncScopedLifestyle();
-
+            // Add this inside WebApiConfig.Register, after container creation
+            container.RegisterSingleton<IRepository<Product>, InMemoryRepository<Product>>();
+            container.RegisterSingleton<IRepository<Order>, InMemoryRepository<Order>>();
             var assembly = typeof(WebApiConfig).Assembly;
             InitializeAssemblyInstancesService.Initialize(container, lifestyle, assembly);
 

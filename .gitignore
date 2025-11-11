@@ -1,0 +1,9 @@
+# Visual Studio temporary files
+.vs/
+*.dll
+*.pdb
+*.vsidx
+*.json
+*.dll
+*.cache
+*.pdb

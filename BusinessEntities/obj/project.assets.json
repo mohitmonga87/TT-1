@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+      "projectUniqueName": "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\BusinessEntities.csproj",
       "projectName": "BusinessEntities",
-      "projectPath": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+      "projectPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\BusinessEntities.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\obj\\",
+      "outputPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -468,8 +468,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\mohit\\Interview Project\\SampleProject\\Common\\Common.csproj": {
-              "projectPath": "D:\\mohit\\Interview Project\\SampleProject\\Common\\Common.csproj"
+            "D:\\mohit\\Interview Project\\TT1\\TT-1\\Common\\Common.csproj": {
+              "projectPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\Common\\Common.csproj"
             }
           }
         }

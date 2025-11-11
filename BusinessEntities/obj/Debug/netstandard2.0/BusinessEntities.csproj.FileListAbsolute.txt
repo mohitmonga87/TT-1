@@ -1,0 +1,14 @@
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.deps.json
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.dll
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.pdb
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\bin\Debug\netstandard2.0\Common.dll
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\bin\Debug\netstandard2.0\Common.pdb
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.AssemblyReference.cache
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfoInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfo.cs
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CoreCompileInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.sourcelink.json
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CopyComplete
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.dll
+D:\mohit\Interview Project\TT1\TT-1\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.pdb

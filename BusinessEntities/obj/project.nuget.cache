@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9o+LyDy9jJ3cNLlucI74ke++Y7URBvLTHV493jK1hK05UMDb3Wcs35+mp4s0u8jADWaHeVhK9Lxpj960+RNv5g==",
+  "dgSpecHash": "R67mynTZ7uKQFLPrZBQWWhSpNNaI55LD/KVOHMhzSebASirlgrsoQU+3xBkyMZFsW6YSM7JiKwb9lpp3OqQ36A==",
   "success": true,
-  "projectFilePath": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "projectFilePath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\BusinessEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

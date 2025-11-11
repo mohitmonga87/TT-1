@@ -62,7 +62,7 @@ namespace BusinessEntities
         {
             if (string.IsNullOrEmpty(email))
             {
-                throw new ArgumentNullException("Name was not provided.");
+                email = _email;
             }
             _email = email;
         }

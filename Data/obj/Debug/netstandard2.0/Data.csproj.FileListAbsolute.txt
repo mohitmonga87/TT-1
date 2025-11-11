@@ -1,0 +1,16 @@
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\Data.deps.json
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\Data.dll
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\Data.pdb
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\BusinessEntities.dll
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\Common.dll
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\BusinessEntities.pdb
+D:\mohit\Interview Project\TT1\TT-1\Data\bin\Debug\netstandard2.0\Common.pdb
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.csproj.AssemblyReference.cache
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.sourcelink.json
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.dll
+D:\mohit\Interview Project\TT1\TT-1\Data\obj\Debug\netstandard2.0\Data.pdb

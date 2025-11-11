@@ -1,0 +1,11 @@
+D:\mohit\Interview Project\TT1\TT-1\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\mohit\Interview Project\TT1\TT-1\Common\bin\Debug\netstandard2.0\Common.dll
+D:\mohit\Interview Project\TT1\TT-1\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.sourcelink.json
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.dll
+D:\mohit\Interview Project\TT1\TT-1\Common\obj\Debug\netstandard2.0\Common.pdb

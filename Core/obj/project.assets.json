@@ -6881,11 +6881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mohit\\Interview Project\\SampleProject\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\mohit\\Interview Project\\TT1\\TT-1\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\mohit\\Interview Project\\SampleProject\\Core\\Core.csproj",
+      "projectPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\mohit\\Interview Project\\SampleProject\\Core\\obj\\",
+      "outputPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6907,11 +6907,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj": {
-              "projectPath": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj"
+            "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\BusinessEntities.csproj": {
+              "projectPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\BusinessEntities\\BusinessEntities.csproj"
             },
-            "D:\\mohit\\Interview Project\\SampleProject\\Data\\Data.csproj": {
-              "projectPath": "D:\\mohit\\Interview Project\\SampleProject\\Data\\Data.csproj"
+            "D:\\mohit\\Interview Project\\TT1\\TT-1\\Data\\Data.csproj": {
+              "projectPath": "D:\\mohit\\Interview Project\\TT1\\TT-1\\Data\\Data.csproj"
             }
           }
         }

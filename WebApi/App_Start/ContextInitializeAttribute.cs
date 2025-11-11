@@ -16,6 +16,7 @@ namespace WebApi.App_Start
             if (method == HttpMethod.Post || method == HttpMethod.Put || method == HttpMethod.Delete)
             {
                 var session = (IDocumentSession)container.GetService(typeof(IDocumentSession));
+                session.Advanced.UseOptimisticConcurrency = false;
                 session.SaveChanges();
             }
         }

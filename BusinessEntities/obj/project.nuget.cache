@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9o+LyDy9jJ3cNLlucI74ke++Y7URBvLTHV493jK1hK05UMDb3Wcs35+mp4s0u8jADWaHeVhK9Lxpj960+RNv5g==",
+  "success": true,
+  "projectFilePath": "D:\\mohit\\Interview Project\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\simpleinjector\\4.0.8\\simpleinjector.4.0.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
